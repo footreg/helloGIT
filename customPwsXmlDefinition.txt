@@ -1,0 +1,6 @@
+1,change_Change_Total_Quote_Reset_Request,PPP
+2,change_Change_Total_Quote_Reset_Request,AAA
+3,change_Change_Total_Quote_Reset_Request,NNN
+4,change_Change_Total_Quote_Reset_Request,KKK
+5,change_Change_Total_Quote_Reset_Request,PPP
+6,change_Change_Total_Quote_Reset_Request,TTT
