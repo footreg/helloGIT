@@ -4,3 +4,4 @@
 4,change_Change_Total_Quote_Reset_Request,KKK
 5,change_Change_Total_Quote_Reset_Request,PPP
 6,change_Change_Total_Quote_Reset_Request,TTT
+7,change_Change_Total_Quote_Reset_Request,TTT
